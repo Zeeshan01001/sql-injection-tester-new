@@ -1,8 +1,8 @@
-# Fast SQL Injection Tester 🎯
+# Fast SQL Injection Tester
+
+A high-performance, asynchronous SQL injection vulnerability scanner designed for educational and authorized testing purposes. This tool helps security researchers and penetration testers identify potential SQL injection vulnerabilities in web applications with optimized performance and comprehensive reporting.
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/) [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-
-A high-performance, asynchronous SQL injection vulnerability scanner designed for educational and authorized testing purposes. 🚀
 
 ## 🔍 About
 
@@ -32,8 +32,8 @@ What sets this tool apart is its focus on performance, ease of use, and comprehe
 
 ```bash
 # Clone the repository
-git clone https://github.com/Zeeshan01001/sql-injection-tester.git
-cd sql-injection-tester
+git clone https://github.com/Zeeshan01001/sql-injection-tester-new.git
+cd sql-injection-tester-new
 
 # Install globally
 pip install .
@@ -46,8 +46,8 @@ pip install -e .
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/sql-injection-tester.git
-cd sql-injection-tester
+git clone https://github.com/Zeeshan01001/sql-injection-tester-new.git
+cd sql-injection-tester-new
 
 # Install dependencies
 pip install -r requirements.txt
@@ -135,6 +135,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Built with aiohttp for high-performance async operations
-- Uses rich for beautiful console output
-
-# 
+- Uses rich for beautiful console output 
